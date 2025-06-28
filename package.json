@@ -1,11 +1,10 @@
 {
   "name": "toolkart-project",
   "version": "1.0.0",
-  "description": "A collection of web tools.",
+  "description": "Final attempt to fix everything.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "vercel dev"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.19.2",
