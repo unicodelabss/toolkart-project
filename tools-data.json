@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "PDF Tools",
+    "Image Utilities",
+    "Text Tools",
+    "Generators"
+  ],
+  "tools": [
+    {
+      "id": 1,
+      "name": "Sample Tool 1",
+      "folderName": "sample-tool-1",
+      "description": "This is a description for the first sample tool.",
+      "category": "Generators",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Sample Tool 2",
+      "folderName": "sample-tool-2",
+      "description": "This is a description for the second sample tool.",
+      "category": "Image Utilities",
+      "order": 1
+    }
+  ]
+}
