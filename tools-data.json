@@ -2,24 +2,32 @@
   "categories": [
     "PDF Tools",
     "Image Utilities",
-    "Text Tools",
-    "Generators"
+    "Generators",
+    "Text Tools"
   ],
   "tools": [
     {
       "id": 1,
-      "name": "Sample Tool 1",
-      "folderName": "sample-tool-1",
-      "description": "This is a description for the first sample tool.",
-      "category": "Generators",
+      "name": "Image Resizer",
+      "folderName": "image-resizer",
+      "description": "Quickly resize your images to any dimension.",
+      "category": "Image Utilities",
       "order": 1
     },
     {
       "id": 2,
-      "name": "Sample Tool 2",
-      "folderName": "sample-tool-2",
-      "description": "This is a description for the second sample tool.",
-      "category": "Image Utilities",
+      "name": "PDF To Word",
+      "folderName": "pdf-to-word",
+      "description": "Convert PDF files to editable Word documents.",
+      "category": "PDF Tools",
+      "order": 1
+    },
+    {
+      "id": 3,
+      "name": "Lorem Ipsum Generator",
+      "folderName": "lorem-ipsum-generator",
+      "description": "Generate placeholder text for your designs.",
+      "category": "Generators",
       "order": 1
     }
   ]
